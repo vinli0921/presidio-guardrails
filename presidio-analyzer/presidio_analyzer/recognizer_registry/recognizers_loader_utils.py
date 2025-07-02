@@ -261,7 +261,7 @@ class RecognizerListLoader:
 
 
 class RecognizerConfigurationLoader:
-    """A utility class that initializes recognizer registry configuration."""
+    """A utility class that initializes recognizer registry configuraton."""
 
     mandatory_keys = [
         "supported_languages",
